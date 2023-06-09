@@ -32,7 +32,7 @@ will cover all the needs of prisoners’ families and provide them with services
 to that it will be a new version of the traditional method used by the Red Cross in tracking
 the conditions of prisoners and communicating with their families.
 
-...................................................................................................................................................................................................................................................................................................
+............................................................................................................................................................................................................................
 The login page features two input fields for entering the email and password, along with a
 ”Login” button. It is worth noting that each user of the system has a unique email. In case
 the employee does not have an account, they can click on the ”Sign Up” button to create one.
