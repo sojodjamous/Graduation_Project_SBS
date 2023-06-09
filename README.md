@@ -1,4 +1,38 @@
 # Graduation_Project_SBS
+Out of our love for our homeland, Palestine, we thought of a project that works to alleviate
+the suffering of the Palestinian people in the registration process for visiting prisoners in the
+occupation prisons, in addition to facilitating the process of coordinating visits programs for
+the International Committee of the Red Cross.
+So this project is about creating a mobile application used by the families of prisoners who
+want to arrange a visit for them, and thus the application facilitates the process of booking
+visits for families and facilitates their communication using a direct chat with the International
+Committee of the Red Cross, the families being able of booking a visit through a page that
+contain the available visits in the during the month. They can click on the appropriate visit for
+them and see detailed information about it, also, there will be a reservation button for booking
+a visit, or they can inquire about the visit by pressing the query button, which allows sending
+an email. And the system will also provide certificates or paper proof needed by users, the
+user can choose the specific certificates they need such as a visit permit or arrest certificate,
+also, the user will be able to download them as PDF files to print them later, in the mobile
+application there’s will be a part of the real-time chat to communication between prisoners
+families, so using it they can contact reassure each other and talk about news together, also,
+there’s will be part to the latest news about the prisoners that is published by the staff in Red
+Cross. In addition, the project will contain a web portal for the staff of the Red Cross who deal
+with prisoners and prisoners’ families, this portal enables them to coordinate visit programs for
+the families of prisoners, as it contains complete data for prisoners, their families, and prisons,
+which helps in organizing the process of coordinating visits, it enables them to communicate
+with the families of prisoners easily by the direct chat, also the portal will support real-time
+notification in case if there’s any change in the visit it will send to all visitors in this day and
+if there is no respond from the user the staff will call to them, and the system will also provide
+certificates or papers Proof needed by the staff like health insurance and there’s the ability to
+print them, also, the staff can publish the latest news about the prisoners. As a result, this
+project will facilitate faster communication between the International Committee of the Red
+Cross and the families of the prisoners than the traditional methods.
+React Native and Node.JS are the programming languages that we will use to write the application and website. Also, we will use SQLite and DB at the backend. As a result, this project
+will cover all the needs of prisoners’ families and provide them with services easily, in addition
+to that it will be a new version of the traditional method used by the Red Cross in tracking
+the conditions of prisoners and communicating with their families.
+
+..........................................................................................................
 The login page features two input fields for entering the email and password, along with a
 ”Login” button. It is worth noting that each user of the system has a unique email. In case
 the employee does not have an account, they can click on the ”Sign Up” button to create one.
